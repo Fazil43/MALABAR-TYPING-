@@ -4322,6 +4322,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   margin-bottom: 0;
   border-width: 1px 0 0;
 }
+
 .navbar-brand {
   float: left;
   height: 50px;
@@ -4333,6 +4334,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-brand:focus {
   text-decoration: none;
 }
+
 .navbar-brand > img {
   display: block;
 }
