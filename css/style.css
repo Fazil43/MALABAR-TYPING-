@@ -238,7 +238,8 @@ a.btn-send:hover {
 }
 a.navbar-brand img {
 	position:relative;
-	top:-70px;
+	top:-170px;
+	margin-left: -80px;
 }
 #menu {
 	position:absolute;
@@ -265,7 +266,7 @@ a.navbar-brand img {
 }
 a.navbar-brand {
 	padding:0px;
-	margin-top:-3px;
+	margin-top:-10px;
 }
 ul.nav li.active a:before {
 	opacity:1;
